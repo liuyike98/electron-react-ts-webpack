@@ -1,2 +1,1 @@
-# electron-react-ts-webpack
-quick-start-template
+快速开发模板
